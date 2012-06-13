@@ -244,6 +244,9 @@
 /* target host supports CAN sniffing */
 #undef PCAP_SUPPORT_CAN
 
+/* target host supports canusb */
+#undef PCAP_SUPPORT_CANUSB
+
 /* target host supports netfilter sniffing */
 #undef PCAP_SUPPORT_NETFILTER
 
